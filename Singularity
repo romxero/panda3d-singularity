@@ -39,4 +39,4 @@ rm panda3d1.10_1.10.8~bionic_amd64.deb
 %runscript
 #
 
-##
+#######
